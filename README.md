@@ -12,13 +12,14 @@ Hi there,
 - ❤️ In the near future, I also aspire to become a health mentor.
 - 💬 Ask me anything about software development or health mentoring.
 - 📫 How to reach me?
+
 [![X Badge](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=white&link=)](https://x.com/oliverquynh/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/oliverquynh/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@oliverquynh.com)](mailto:contact@oliverquynh.com)
 
 ## My projects
 
-- [HapiDeploy](https://github.com/hapideploy/hapideploy) - A remote execution tool written in Python, inspired by DeployPHP.
+- [HapiDeploy](https://github.com/hapideploy/hapideploy) - The Python deployment tool for developers who love simplicity.
 
 ## I have contributed to
 
